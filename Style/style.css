@@ -149,7 +149,7 @@ svg{
     cursor:pointer;
 }
 footer{
-    width: 100%;
+    width: 650px;
     text-align: center;
 }
 @media screen and (min-width:1000px) {
@@ -161,6 +161,8 @@ footer{
             margin-top: 20px;
             margin-left: 15px;
         }
-        
+        footer{
+            width:auto;
+        }
 
 }
