@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://tariqul-huda.github.io/Single-column-coming-soon-page/)
 
 ## Author
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tariqul-huda)
